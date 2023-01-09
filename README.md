@@ -1,8 +1,6 @@
 # TongjiLaTex620- 同济大学LaTex论文模板（620）
 
-一些说明：*本模板基于[Project_marquistj13/TongjiThesis](https://github.com/marquistj13/TongjiThesis)，在其基础上进行了一些更改*
-
-**如直接给出了windows下所需要的字体（见字体文件夹，双击安装即可）；**
+**直接给出了windows下所需要的字体（见字体文件夹，双击安装即可）；**
 
 **增加了算法列写宏包；**
 
